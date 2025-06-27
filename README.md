@@ -1,29 +1,21 @@
-# 📚 Nome do Projeto ou Atividade
+# 📚 Site do Shrek 3
 
-> Repositório de estudos mantido por JoãoBonzão. Aqui ficam atividades, projetos de prática e experiências com código.
+> Repositório de estudos mantido por João Pedro. Aqui ficam atividades, projetos de prática e experiências com código.
 
 ---
 
 ## 🧠 Objetivo
 
-Descrever brevemente o que está sendo estudado ou praticado nesse projeto.  
-Exemplo: *"Exercício de estruturas condicionais em Python"* ou *"Projeto básico de um jogo em Java."*
-
+Por em prática o que aprendi no HTML e CSS
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-- Linguagem: [Ex: Python / Java / HTML-CSS-JS]
-- Editor: [Ex: VSCode / NetBeans]
-- Outras ferramentas: [Git / GitHub / etc.]
+- Linguagem: HTML, CSS.
+- Editor: VSCode
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🌐 Link se acesso 
 
-```bash
-.
-├── src/                # Código-fonte principal
-├── assets/             # Imagens, sons ou arquivos usados
-├── README.md           # Este arquivo
-└── outros arquivos     # Dependendo do projeto
+🧅 [Veja o Meu Site do SHREK 3 aqui!](https://joaobonzao.github.io/MeuSiteDoSHREK3/)
